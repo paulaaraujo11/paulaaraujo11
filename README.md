@@ -9,8 +9,6 @@
 - 🎓 Information Systems Student @ [UFRPE](https://www.ufrpe.br/)
 - 🌐 Passionate about web development
 
-<div align="right" width="300px">
   
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulaaraujo11&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulaaraujo11&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
   
- </div>
