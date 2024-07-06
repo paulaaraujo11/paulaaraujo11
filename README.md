@@ -1,4 +1,4 @@
-## Oiii, eu sou a Paula Araujo👋 
+## Oie, eu sou a Paula Araujo👋 
 <div align="center">
   <a href="https://github.com/paulaaraujo11">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulaaraujo11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
